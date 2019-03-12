@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'anudeep/g'
+                echo 'anudeep.g'
              }
         }
     }
