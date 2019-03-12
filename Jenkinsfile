@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Running build automation shiyu'
+                echo 'Running build automation'
              }
         }
     }
