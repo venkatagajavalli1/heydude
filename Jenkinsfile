@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage('Build') {
+        stage('deploy') {
             steps {
                 echo 'Running build automation auto i'
              }
